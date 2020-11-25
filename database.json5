@@ -47,7 +47,7 @@
 		tax: 0,
 		category: "Продукты",
 		title: "Chococream",
-		description: "Шоколадные пасты.\nНежный вкус и приятный аромат шоколадно-ореховой пасты.\nВес товара  400 гр."
+		description: "Шоколадные пасты.<br/>Нежный вкус и приятный аромат шоколадно-ореховой пасты.<br/>Вес товара  400 гр."
 	},
 	"146ec2ac": {
 		cardID: 10252,
@@ -57,7 +57,17 @@
 		tax: 0,
 		category: "Мобильные Телефоны",
 		title: "Samsung Galaxy Grand Max",
-		description: "Стандарт: <b>GSM 900/1800/1900, 3G, 4G</b><br/>Тип: <b>Smartphone</b><br/>Операционная система: <b>Android</b><br/>Размеры(ШxВxТ): <b>146x74.8x7.9 мм</b><br/>Объем оперативной памяти: <b>1536 МБ</b><br/>Количество ядер процессора: <b>4 Core</b><br/>Процессор: <b>Qualcomm MSM8916 Snapdragon 410, 1200 МГц</b><br/>Объем встроенной памяти: <b>16 Гб</b><br/>Интерфейсы: <b>Wi-Fi, Wi-Fi Direct, Bluetooth 4.0, USB</b>"
+		description: "Стандарт: GSM 900/1800/1900, 3G, 4G<br/>Тип: Smartphone<br/>Операционная система: Android<br/>Размеры(ШxВxТ): 146x74.8x7.9 мм<br/>Объем оперативной памяти: 1536 МБ<br/>Количество ядер процессора: 4 Core<br/>Процессор: Qualcomm MSM8916 Snapdragon 410, 1200 МГц<br/>Объем встроенной памяти: 16 Гб<br/>Интерфейсы: Wi-Fi, Wi-Fi Direct, Bluetooth 4.0, USB"
+	},
+	"c4e7bf62": {
+		cardID: 10252,
+		photo: "img/galaxy.jpg",
+		video: "video/galaxy.mp4",
+		price: "599 000 UZS",
+		tax: 0,
+		category: "Мобильные Телефоны",
+		title: "Samsung Galaxy Grand Max",
+		description: "Стандарт: GSM 900/1800/1900, 3G, 4G<br/>Тип: Smartphone<br/>Операционная система: Android<br/>Размеры(ШxВxТ): 146x74.8x7.9 мм<br/>Объем оперативной памяти: 1536 МБ<br/>Количество ядер процессора: 4 Core<br/>Процессор: Qualcomm MSM8916 Snapdragon 410, 1200 МГц<br/>Объем встроенной памяти: 16 Гб<br/>Интерфейсы: Wi-Fi, Wi-Fi Direct, Bluetooth 4.0, USB"
 	},
 	"4403084d": {
 		cardID: 10249,
@@ -67,7 +77,17 @@
 		tax: 0,
 		category: "Аудио",
 		title: "Bluetooth стереогарнитура JBL",
-		description: "Модель: JBL T450BT\nСпособ передачи сигнала: Bluetooth\nВремя работы: до 6 ч\nВерсия Bluetooth:  4.0\nВес: 320 г"
+		description: "Модель: JBL T450BT<br/>Способ передачи сигнала: Bluetooth<br/>Время работы: до 6 ч<br/>Версия Bluetooth:  4.0<br/>Вес: 320 г"
+	},
+	"e0b14c5f": {
+		cardID: 10249,
+		photo: "img/headphone.jpg",
+		video: "video/headphone.mp4",
+		price: "250 000 UZS",
+		tax: 0,
+		category: "Аудио",
+		title: "Bluetooth стереогарнитура JBL",
+		description: "Модель: JBL T450BT<br/>Способ передачи сигнала: Bluetooth<br/>Время работы: до 6 ч<br/>Версия Bluetooth:  4.0<br/>Вес: 320 г"
 	},
 	"445a09e0": {
 		cardID: 10251,

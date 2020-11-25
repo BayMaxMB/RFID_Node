@@ -14,6 +14,11 @@ ws.onmessage = (msg) => {
 		pricedata = data["price"];
 		taxdata = data["tax"];
 		descriptiondata = data["description"];
+		let buybtn = document.getElementById("buy-btn");
+		buybtn.onclick = buy;
+		buybtn.innerText = "Добавить в корзину";
+		document.getElementsByClassName("pricer")[0].innerText = `Цена: `;
+
 		Object.keys(data).forEach(prop => {
 			if (data[prop]) {
 				if (prop == "photo") {
@@ -24,6 +29,7 @@ ws.onmessage = (msg) => {
 					placeImg(data[prop]);
 				}
 				else if (prop == "video") {
+					let videobtn = document.getElementById("video-btn");
 					document.getElementById("video-btn").onclick = playvideo.bind(this, [data[prop]]);
 					videoLink = data[prop];
 				}
@@ -62,6 +68,7 @@ function placeImg(link) {
 function main() {
 	document.getElementsByTagName("main")[0].style.display = "none";
 	document.getElementsByClassName("mainpager")[0].style.display = "flex";
+	placeImg(photoLink);
 }
 function buy() {
 	document.getElementById("description").innerHTML = `
