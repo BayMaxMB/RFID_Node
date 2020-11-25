@@ -1,10 +1,82 @@
 {
 	"14bc37aa": {
-        photo: "img/iphone12.png",
-        video: "",
-        price: 0,
-        tax: 0,
-        title: "",
-        description: "iPhone 12\n 128GB"
-    }
+		cardID: 10250,
+		photo: "img/mask.png",
+		video: "video/1.mp4",
+		price: "9$",
+		tax: 0,
+		category: "Medicine",
+		title: "Black Mask",
+		description: "Medical masks are a type of personal protective equipment used to prevent the spread of respiratory infections. ... They are tight fitting and prevent inhalation of smaller infectious particles that can spread through the air over long distances after an infected person coughs or sneezes."
+	},
+	"e4f56262": {
+		cardID: 10245,
+		photo: "img/mi10litegrey.png",
+		video: "video/1.mp4",
+		price: "369$",
+		tax: 0,
+		category: "Phones",
+		title: "Mi 10 Lite",
+		description: "Xiaomi Mi 10 Lite smartphone runs on Android v10 (Q) operating system. The phone is powered by Octa core (2.4 GHz, Single core, Kryo 475 + 2.2 GHz, Tri core, Kryo 475 + 1.8 GHz, Hexa Core, Kryo 475) processor. It runs on the Qualcomm Snapdragon 765G Chipset. It has 6 GB RAM and 128 GB internal storage."
+	},
+	"64d4054d": {
+		cardID: 10246,
+		photo: "img/redheadphone.png",
+		video: "video/1.mp4",
+		price: "149$",
+		tax: 0,
+		category: "Headphones",
+		title: "Beats EP",
+		description: "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance"
+	},
+	"c06f5a5f": {
+		cardID: 10247,
+		photo: "img/cola.png",
+		video: "video/1.mp4",
+		price: "5$",
+		tax: 0,
+		category: "Drinks",
+		title: "Coca Cola",
+		description: "Coca-Cola, or Coke, is a carbonated soft drink manufactured by The Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it was invented in the late 19th century by John Stith Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century."
+	},
+	"64ae1592": {
+		cardID: 10248,
+		photo: "img/choko.png",
+		video: "video/1.mp4",
+		price: "19 600 UZS",
+		tax: 0,
+		category: "Продукты",
+		title: "Chococream",
+		description: "Шоколадные пасты.\nНежный вкус и приятный аромат шоколадно-ореховой пасты.\nВес товара  400 гр."
+	},
+	"146ec2ac": {
+		cardID: 10252,
+		photo: "img/galaxy.jpg",
+		video: "video/galaxy.mp4",
+		price: "599 000 UZS",
+		tax: 0,
+		category: "Мобильные Телефоны",
+		title: "Samsung Galaxy Grand Max",
+		description: "Стандарт: <b>GSM 900/1800/1900, 3G, 4G</b><br/>Тип: <b>Smartphone</b><br/>Операционная система: <b>Android</b><br/>Размеры(ШxВxТ): <b>146x74.8x7.9 мм</b><br/>Объем оперативной памяти: <b>1536 МБ</b><br/>Количество ядер процессора: <b>4 Core</b><br/>Процессор: <b>Qualcomm MSM8916 Snapdragon 410, 1200 МГц</b><br/>Объем встроенной памяти: <b>16 Гб</b><br/>Интерфейсы: <b>Wi-Fi, Wi-Fi Direct, Bluetooth 4.0, USB</b>"
+	},
+	"4403084d": {
+		cardID: 10249,
+		photo: "img/headphone.jpg",
+		video: "video/headphone.mp4",
+		price: "250 000 UZS",
+		tax: 0,
+		category: "Аудио",
+		title: "Bluetooth стереогарнитура JBL",
+		description: "Модель: JBL T450BT\nСпособ передачи сигнала: Bluetooth\nВремя работы: до 6 ч\nВерсия Bluetooth:  4.0\nВес: 320 г"
+	},
+	"445a09e0": {
+		cardID: 10251,
+		photo: "img/uvex.jpg",
+		video: "video/uvex.mp4",
+		price: "120 000 UZS",
+		tax: 0,
+		category: "Спортовары",
+		title: "Горнолыжные очки Uvex",
+		description: "Uvex Downhill -это топовая спортивная модель с очень большим полем зрения и противотуманным покрытием uvex supravision. Идеальные очки для резьбы и пудры, а также незаменимое дополнение для борьбы с меняющимися погодными условиями. Технология uvex polavision надежно поглощает отвлекающие отражения, в то время как технология uvex variomatic имеет автоматическую тонировку с плавным переходом, чтобы обеспечить идеальный обзор при любом освещении. Икона среди лыжных очков для высочайших требований."
+	},
 }

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+	<title>Get Description of Product</title>
+	<link rel="stylesheet" href="style.css">
+	<meta name="robots" content="noindex,follow" />
+</head>
+<body>
+	<div class="mainpager" style="
+		">
+		<img src="img/mainpage.png" alt="" class="logo" style="max-width: 550px"/>
+		<h1>Интерактивный киоск</h1>
+		<h2>Поднесите товар к киоску</h2>
+	</div>
+	<main class="container" style="display: none;">
+		<div class="left-column">
+			<img class="active" src="img/redheadphone.png" alt="" id="photo">
+		</div>
+		<div class="right-column">
+		<div class="product-description">
+			<span id="category">Headphones</span>
+			<h1 id="title">Beats EP</h1>
+			<div id="descriptor">
+				<p id="description">The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance</p>
+			</div>
+		</div>
+		<div class="product-configuration">
+			<div class="id">ID: <span id="cardID">10246</span>
+				<span class="pricer">Цена: </span><span id="price">148$</span>
+			</div>
+			<div class="product-price">
+				<a href="#" class="cart-btn" id="video-btn">Видео</a>
+				<a href="#" class="cart-btn" id="buy-btn" onclick="buy()">Добавить в корзину</a>
+				<a href="#" class="cart-btn" id="home-btn" onclick="main()">На главную</a>
+			</div>
+		</div>
+	</main>
+	<script src="script.js"></script>
+</body>
+</html>
